@@ -4,9 +4,9 @@
 
 ##### The project aims at analyzing crash data in New Brunswick, New Jersey to understand and identify the streets with heavy injuries and fatalities. Clean traffic crash data in New Brunswick, New Jersey is not available to the general public. The New Brunswick Police department makes individual accident reports for certain years available but that would require an extensive amount of time dedicated to data cleaning. We spoke to Hanna Younes and Leigh Ann Von Hagen at the Rutgers Pedestrian and Bicycle Resource center and found out that we can get access to CSV file of clean crash data through the resource center. The traffic crash data we acquired from the center has the crash incidents data for six years between the year 2016-2021. This data is classified into different types severity, fatality, injury, and property damage. Because we are focusing on human injury and fatalities, we filtered the data to exclude property damage. This resulted in 2,920 incidents of injury and fatalities out of the total 13,011 incidents in the dataset. In addition to the crash data, we used census data for income, and racial demographics data using the census API. We also acquired the New Jersey road centerlines, which we clipped to New Brunswick, through the NJGIN Open Data website.
 
-![Screenshot](https://github.com/DhruviDipeshShah/GIS/blob/598acfcac1ac441da9e9512c6b733d7776d1585f/Image%20showing%20Communities%20of%20Concern.png)
+<iframe src="Image showing Income Levels.png" height="750" width="750"></iframe>
 
-![Screenshot](https://github.com/DhruviDipeshShah/GIS/blob/441b42981c451c818e370fec8e11a3c89851b7c4/Image%20showing%20Income%20Levels.png)
+<iframe src="Image showing Communities of Concern.png" height="750" width="750"></iframe>
 
 <iframe src="HINNB.html" height="750" width="750"></iframe>
 
