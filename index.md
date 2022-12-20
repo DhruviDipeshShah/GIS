@@ -11,6 +11,6 @@
 
 <iframe src="Total_Injuries_by_cenus_tract.png" height="650" width="1000"></iframe>
 
-<iframe src="HINNB.html" height="750" width="750"></iframe>
+<iframe src="HIN.html" height="750" width="750"></iframe>
 
-You can explore this map [as its own page here](HINNB.html). 
+You can explore this map [as its own page here](HIN.html). 
