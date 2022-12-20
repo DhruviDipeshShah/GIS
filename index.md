@@ -1,4 +1,6 @@
 ## New Brunswick High Injury Network Map
+### A project by Rodas Bekele and Dhruvi Shah
+#### Guided by Prof Will Payne for the course Command Line GIS
 
 <iframe src="githubtext.html" height="750" width="750"></iframe> 
 
