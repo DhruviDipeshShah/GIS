@@ -12,7 +12,7 @@
 ##### The yellow colored tracts have the highest percentage of communities of color. This percentage lies above 53%. 
 
 <iframe src="Total_Injuries_by_cenus_tract.png" height="650" width="1000"></iframe>
-##### Towards the north of New Brunswick, where the yellow color is shown, we have the highest injuries in the city. This census tract also has comparatively low incomes in the city and over 35% racial minorities staying there. 
+##### Towards the north of New Brunswick, where the yellow color is shown, we have the highest injuries in the city. This census tract also has comparatively low incomes in the city and over 35% racial minorities staying there.
 
 <iframe src="HIN.html" height="1000" width="1000"></iframe>
 
